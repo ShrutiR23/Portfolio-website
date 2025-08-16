@@ -36,7 +36,7 @@ Home, About, Skills, Projects, and Contact sections all feature a consistent mod
 
 ## 🔗 Demo
 
-Check out the live site [here][(https://github.com/ShrutiR23/Portfolio-website).  ](https://github.com/ShrutiR23/Portfolio-website).
+Check out the live site here-> [(https://github.com/ShrutiR23/Portfolio-website).  ](https://github.com/ShrutiR23/Portfolio-website).
 
 
 ## 📞 Contact
@@ -51,7 +51,7 @@ Check out the live site [here][(https://github.com/ShrutiR23/Portfolio-website).
 
 ## 📝 How To Use
 
-1. **Clone the repository:**git clone [https://github.com/ShrutiR23/Portfolio-website](https://github.com/ShrutiR23/Portfolio-website)
+1. Clone the repository:git clone [https://github.com/ShrutiR23/Portfolio-website](https://github.com/ShrutiR23/Portfolio-website)
 2. Open index.html in your browser.
 3. Customize content in HTML and replace placeholders (name, links, contact info).
 4. Deploy to GitHub Pages or your preferred hosting platform.
